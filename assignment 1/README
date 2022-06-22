@@ -1,0 +1,16 @@
+i askisi mu paei ws eksis
+mia while 1 stin main opu diavazw me tin readline 
+spaw ton buffer prwta se ; kai meta | ama spasei se | 
+exw pipes ftiaxnw mia for gia kathe simeio pu espase 
+kai kalw tin execute pu xriazete . 
+mesa stin apli execute psaxnw gia redirections an den brei apla kanei mia mia tis entoles 
+stin pipe tsekarw pali gia redirections apla dexomai sto 1o pipe input kai sto last output
+otidipote allo apla den to dexete to programma
+exw ftiaksei 2-3 sinartiseis gia na spaei o kwdikas
+i prwti sinartisi diwxnei ta kena ta perisia
+i deuteri dineis enan aplo pinaka xaraktirwn kai enan xaraktira
+kai su epistrefei enan disdiastato pinaka spasmeno sto xaraktira pu edwses 
+mia sinartisi psaxnei to redirection kai to ti type einai
+mia diagrafei ta redirection symbols kai mia sbinei to path kai sto epistrefei ksexwrista gia na to dwseis stin dup2
+exw kai merikes xazes sinartiseis gia na allazw xrwma stis printf mu gia na fainete ligo kalitera kathws kai mia pu
+tipwnei to arxiko minima.
